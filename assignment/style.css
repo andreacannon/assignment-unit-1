@@ -24,3 +24,6 @@ ul {
     font-family: 'Monster', sans-serif; 
 }
 /* Add a background color to the footer element */
+footer {
+    background-color: #34495e;
+}
